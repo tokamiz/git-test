@@ -1,2 +1,2 @@
-document.body.innerHTML = 'Hallo Javascript';
+document.body.innerHTML = 'Hallo Javascript and Git';
 console.log('Test');
