@@ -1,3 +1,2 @@
 # Git Test
-
-Übung mit Git.
+Test merge
