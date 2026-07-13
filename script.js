@@ -1,2 +1,2 @@
-document.body.innerHTML = 'Hallo Javascript and Git';
-console.log('Test');
+document.body.innerHTML = 'Hallo Javascript and Git mit einem Commit A';
+console.log('Test mit A');
